@@ -1,9 +1,8 @@
 {
-  "name": "Awesome Calculator",
-  "short_name": "Calculator",
+  "name": "Awesome Age Calculator",
+  "short_name": "Age Calc",
   "description": "Calculate your age easily",
-  "start_url": "/calculator/",
-  "scope": "/calculator/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
@@ -20,3 +19,4 @@
     }
   ]
 }
+
